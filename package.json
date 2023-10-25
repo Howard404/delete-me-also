@@ -1,0 +1,20 @@
+{
+  "name": "delete-me-also",
+  "version": "1.0.0",
+  "description": "Delete me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hello World"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "delete-me-also"
+  },
+  "author": "Grant Howard",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
